@@ -1,0 +1,33 @@
+_repo: Kisington-Town_41729
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Winckler, Ruby
+    birthdate: 1886
+    gutenberg_agent_id: '46295'
+    url: http://www.gutenberg.org/2009/agents/46295
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+description: ''
+gutenberg_issued: '2012-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: Kisington Town
+url: http://www.gutenberg.org/ebooks/41729
